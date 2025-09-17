@@ -1,5 +1,5 @@
 ### I'm Marcus
-A frontend developer in Stockholm, Sweden. I'm eagerly seeking opportunities to enter the business and develop my problem-solving skills.
+A frontend developer in Stockholm, Sweden. I'm eagerly seeking new opportunities to evolve as a developer.
 <!--
 **mrcpet/mrcpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
