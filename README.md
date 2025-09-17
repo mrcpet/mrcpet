@@ -1,5 +1,5 @@
 ### I'm Marcus
-A frontend student at Nackademin in Stockholm, Sweden. I'm set to graduate in the spring of 2025 and I'm eagerly seeking opportunities to enter the business and develop my problem-solving skills.
+A frontend developer in Stockholm, Sweden. I'm eagerly seeking opportunities to enter the business and develop my problem-solving skills.
 <!--
 **mrcpet/mrcpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
